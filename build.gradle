@@ -27,7 +27,7 @@ repositories {
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter'
-	implementation "com.ag04.utils:gh-demo-lib:0.1.2"
+	implementation "com.ag04.utils:gh-demo-lib:0.1.4"
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
